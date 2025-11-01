@@ -43,7 +43,7 @@ through personal projects and coursework.
 # Currently Exploring
 - Continue optimizing and enhancing existing projects with performance and feature improvements
 - Exploring and gaining hands-on experience with game engines and C++ gameplay framework design
-- Practicing scalable backend and gameplay systems
+- Practicing scalable backend architecture and cloud-integrated systems
 
 ---
 
