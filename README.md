@@ -11,6 +11,9 @@ through personal projects and coursework.
 ---
 
 # Highlighted Projects
+- Deadly Bouncy Balls (C++ / SFML Game Project)
+    - An arcade-style mini game where the player dodges bouncing balls that move with realistic physics and increase in           difficulty over time. Built using C++ and SFML, this project explores core game development concepts such as game           loops, physics simulation, collision handling, entity management, and UI navigaion (game states, overlays,                  screens).
+      
 - Drowsiness Detection App (Android Application)
     - A real-time Android application designed to monitor driver drowsiness by analyzing facial features
       such as eye movements uising Google ML Kit. Integrated with Firebase and BigQuery for analytics,
